@@ -1,5 +1,5 @@
 
-### 🪄 Language and Skills   
+### Language and Skills 🪄 
 <img alt="Processing" src ="https://img.shields.io/badge/Processing-006699.svg?&style=flat&logo=Processing Foundation&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
