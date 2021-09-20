@@ -7,8 +7,7 @@
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/> <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=flat&logo=Eclipse IDE&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat&logo=Arduino&logoColor=white&"/>   
-<img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-192c58.svg?&style=flat&logo=Adobe Photoshop&logoColor=68c2f9&font-color=68c2f9"/> <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-3d210e.svg?&style=flat&logo=Adobe Illustrator&logoColor=FF9A00"/> <img alt="Premiere Pro" src ="https://img.shields.io/badge/Premiere Pro-310d37.svg?&style=flat&logo=Adobe Premiere Pro&logoColor=f08eff"/> <img alt="Motion5" src ="https://img.shields.io/badge/Motion 5-3e413e.svg?&style=flat&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/> <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=flat&logo=Eclipse IDE&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=flat&logo=Arduino&logoColor=white&"/>  <img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-192c58.svg?&style=flat&logo=Adobe Photoshop&logoColor=68c2f9&font-color=68c2f9"/> <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-3d210e.svg?&style=flat&logo=Adobe Illustrator&logoColor=FF9A00"/> <img alt="Premiere Pro" src ="https://img.shields.io/badge/Premiere Pro-310d37.svg?&style=flat&logo=Adobe Premiere Pro&logoColor=f08eff"/> <img alt="Motion5" src ="https://img.shields.io/badge/Motion 5-3e413e.svg?&style=flat&logo=Apple&logoColor=white"/>
 
   
 
