@@ -1,6 +1,6 @@
 ## 개발곰의 깃허브 프로필
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thy-Yoo&theme=light&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thy-Yoo&theme=light&layout=compact&langs_count=10)
 
 <!--
 <br>
