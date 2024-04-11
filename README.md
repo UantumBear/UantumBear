@@ -2,6 +2,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thy-Yoo&theme=light&layout=compact&langs_count=10)
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=thy-Yoo)
+
+
+
 <!--
 <br>
   
