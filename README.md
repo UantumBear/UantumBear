@@ -1,6 +1,5 @@
 ## 개발곰의 깃허브 프로필
 
-반갑습니다!  ◍•㉦•◍ ฅ
 https://pf.kakao.com/_JBgJxj
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thy-Yoo&theme=light&layout=compact&langs_count=12)
