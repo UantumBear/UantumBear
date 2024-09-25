@@ -2,7 +2,7 @@ name: Update README with Language Stats
 
 on:
   schedule:
-    - cron: '22 16 * * *'  # UTC 기준으로 16:13, 한국 시간(KST)으로 01:13에 실행
+    - cron: '30 16 * * *'  # UTC 기준으로 16:13, 한국 시간(KST)으로 01:13에 실행
   workflow_dispatch:  # 수동 실행 옵션
 
 jobs:
@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
+          git add README.md README_backup.md stats.md  # 새로운 파일과 기존 파일 모두 Git에 추가
           git commit -m "Update language stats in README"
           git push
