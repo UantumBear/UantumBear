@@ -2,7 +2,7 @@ name: Update README with Language Stats
 
 on:
   schedule:
-    - cron: '13 16 * * *'  # UTC 기준으로 16:08, 한국 시간(KST)으로 01:08에 실행
+    - cron: '22 16 * * *'  # UTC 기준으로 16:13, 한국 시간(KST)으로 01:13에 실행
   workflow_dispatch:  # 수동 실행 옵션
 
 jobs:
@@ -11,17 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Backup existing README
-        run: cp README.md README_backup.md  # 기존 파일 백업
+        run: |
+          cp README.md README_backup.md  # 기존 파일 백업
+          ls -l README_backup.md  # 백업 파일이 생성되었는지 확인
       - name: Download Language Stats
         run: |
           curl -H "Authorization: token ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}" \
-          https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true" \
           > stats.md  # 언어 통계를 별도 파일로 저장
+          ls -l stats.md  # stats.md 파일이 생성되었는지 확인
       - name: Update README
         run: |
           echo "## 개발곰의 깃허브 프로필" > README.md  # 새로운 README.md 파일 작성
           cat stats.md >> README.md  # 언어 통계 삽입
-          echo "\n\n" >> README.md  # 빈 줄 삽입
+          echo "" >> README.md  # 빈 줄 삽입
+          echo "" >> README.md  # 빈 줄 삽입
           tail -n +2 README_backup.md >> README.md  # 백업된 내용에서 두 번째 줄부터 덧붙임
       - name: Commit changes
         run: |
