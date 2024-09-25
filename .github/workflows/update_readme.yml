@@ -1,0 +1,24 @@
+name: Update README with Language Stats
+
+on:
+  schedule:
+    - cron: '50 15 * * *'  # UTC 기준으로 15:39, 한국 시간(KST)으로 00:39에 실행
+  workflow_dispatch:  # 수동 실행 옵션
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Language Stats in README
+        run: |
+          curl -H "Authorization: token ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}" \
+          https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true \
+          > README.md  # 언어 통계를 가져와 README.md에 업데이트
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update language stats in README"
+          git push
