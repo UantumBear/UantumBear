@@ -2,7 +2,7 @@ name: Update README with Language Stats
 
 on:
   schedule:
-    - cron: '08 16 * * *'  # UTC 기준으로 15:50, 한국 시간(KST)으로 00:50에 실행
+    - cron: '13 16 * * *'  # UTC 기준으로 16:08, 한국 시간(KST)으로 01:08에 실행
   workflow_dispatch:  # 수동 실행 옵션
 
 jobs:
@@ -21,8 +21,8 @@ jobs:
         run: |
           echo "## 개발곰의 깃허브 프로필" > README.md  # 새로운 README.md 파일 작성
           cat stats.md >> README.md  # 언어 통계 삽입
-          echo "\n" >> README.md  # 빈 줄 삽입
-          cat README_backup.md >> README.md  # 기존 내용 추가
+          echo "\n\n" >> README.md  # 빈 줄 삽입
+          tail -n +2 README_backup.md >> README.md  # 백업된 내용에서 두 번째 줄부터 덧붙임
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
