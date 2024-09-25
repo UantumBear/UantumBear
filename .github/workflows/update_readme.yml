@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v2
       - name: Backup existing README
         run: cp README.md README_backup.md  # 기존 파일 백업
+      - name: Remove Old Stats
+        run: |
+          grep -v "![Top Langs]" README_backup.md > temp.md && mv temp.md README_backup.md  # 기존 언어 통계 삭제
       - name: Update README with Language Stats
         run: |
           echo "## 개발곰의 깃허브 프로필" > README.md  # 새로운 README.md 파일 작성
