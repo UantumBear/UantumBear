@@ -1,6 +1,4 @@
 ## 개발곰의 깃허브 프로필
-\n
-## 개발곰의 깃허브 프로필
 
 ( 'u' ฅ >> https://pf.kakao.com/_JBgJxj
 
