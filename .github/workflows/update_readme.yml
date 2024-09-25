@@ -2,7 +2,7 @@ name: Update README with Language Stats
 
 on:
   schedule:
-    - cron: '03 16 * * *'  # UTC 기준으로 15:50, 한국 시간(KST)으로 00:50에 실행
+    - cron: '08 16 * * *'  # UTC 기준으로 15:50, 한국 시간(KST)으로 00:50에 실행
   workflow_dispatch:  # 수동 실행 옵션
 
 jobs:
