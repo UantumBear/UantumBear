@@ -1,5 +1,8 @@
 ## 개발곰의 깃허브 프로필
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true)
+
+
 ( 'u' ฅ >> https://pf.kakao.com/_JBgJxj
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13)
