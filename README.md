@@ -1,9 +1,14 @@
 ## 개발곰의 깃허브 프로필
 
-안녕하세요. SW엔지니어로, 개발 중 부딪힌 문제를 해결하고 알게 된 지식을 공유하며 함께 성장하는 것을 중요하게 생각합니다. <br/>
+<div align=center>
+ 
+안녕하세요. SW엔지니어로 일하고 있습니다. <br/>
+
+개발 중 부딪힌 문제를 해결하고 알게 된 지식을 공유하며 함께 성장하는 것을 중요하게 생각합니다. <br/>
 처음 해보는 일들과 기술을 두려워하지 않고 과제를 완수하고 책임지며 <br/>
 "누구 때문이야?" 가 아닌 "어떤 문제 때문이야?" 를 함께 고민하는 좋은 동료 개발자가 되고 싶습니다. <br/>
-
+</div>
+<div>
 ☘️ Education <br/>
 Design and technology (Bachelor of Design) pusan national university 2013-2019 <br/>
 Aerospace Engineering (Bachelor of Science) pusan national university 2013-2019 <br/>
@@ -14,6 +19,7 @@ KyoboDTS SW Engineer 2021.12- <br/>
  - Kyobo Life Insurance MyData (Peach) 2022 <br/>
  - Kyobo Life Insurance Chatbot 2023- <br/>
 
+</div>
 
 
 ☘️ Ahaha ( 'u' ฅ >> https://pf.kakao.com/_JBgJxj <br/>
