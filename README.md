@@ -1,4 +1,4 @@
-## 개발곰의 깃허브 프로필
+## ** 개발곰의 깃허브 프로필 **
 
 <div align=center>
  
@@ -7,22 +7,26 @@
 개발 중 부딪힌 문제를 해결하고 알게 된 지식을 공유하며 함께 성장하는 것을 중요하게 생각합니다. <br/>
 처음 해보는 일들과 기술을 두려워하지 않고 과제를 완수하고 책임지며 <br/>
 "누구 때문이야?" 가 아닌 "어떤 문제 때문이야?" 를 함께 고민하는 좋은 동료 개발자가 되고 싶습니다. <br/>
-</div>
-<div>
-☘️ Education <br/>
-Design and technology (Bachelor of Design) pusan national university 2013-2019 <br/>
-Aerospace Engineering (Bachelor of Science) pusan national university 2013-2019 <br/>
-Data science and Artificial intelligence ( - , Master's degree student ) sogang university 2024- <br/>
 
-☘️ Experience <br/>
-KyoboDTS SW Engineer 2021.12- <br/>
+
+---
+
+
+### ** ☘️ Education **
+- **Design and technology** (Bachelor of Design) pusan national university 2013-2019 <br/>
+- **Aerospace Engineering** (Bachelor of Science) pusan national university 2013-2019 <br/>
+- **Data science and Artificial intelligence** ( - , Master's degree student ) sogang university 2024- <br/>
+
+### ** ☘️ Experience **
+**KyoboDTS SW Engineer** 2021.12- <br/>
  - Kyobo Life Insurance MyData (Peach) 2022 <br/>
  - Kyobo Life Insurance Chatbot 2023- <br/>
 
 </div>
 
 
-☘️ Ahaha ( 'u' ฅ >> https://pf.kakao.com/_JBgJxj <br/>
+### ** ☘️ Ahaha **
+( 'u' ฅ >> https://pf.kakao.com/_JBgJxj <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true)
 
