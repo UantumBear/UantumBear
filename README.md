@@ -1,5 +1,5 @@
 <div align=center>
-###** 개발곰의 깃허브 프로필 **
+### 개발곰의 깃허브 프로필
  
 ---
  
@@ -15,12 +15,12 @@ _"누구 때문이야?"_ 가 아닌 _"어떤 문제 때문이야?"_ 를 함께 �
 </div>
 <div>
  
-###** ☘️ Education **
+### ☘️ Education
 - **Design and technology** (Bachelor of Design) pusan national university 2013-2019 <br/>
 - **Aerospace Engineering** (Bachelor of Science) pusan national university 2013-2019 <br/>
 - **Data science and Artificial intelligence** ( - , Master's degree student ) sogang university 2024- <br/>
 
-###** ☘️ Experience **
+### ☘️ Experience
 **KyoboDTS SW Engineer** 2021.12- <br/>
  - Kyobo Life Insurance MyData (Peach) 2022 <br/>
  - Kyobo Life Insurance Chatbot 2023- <br/>
@@ -28,7 +28,7 @@ _"누구 때문이야?"_ 가 아닌 _"어떤 문제 때문이야?"_ 를 함께 �
 </div>
 
 
-###** ☘️ Ahaha **
+###  ☘️ Ahaha
 ( 'u' ฅ >> https://pf.kakao.com/_JBgJxj <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true)
