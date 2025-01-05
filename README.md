@@ -32,6 +32,7 @@ _"누구 때문이야?"_ 가 아닌 _"어떤 문제 때문이야?"_ 를 함께 �
 
 
 ###  ☘️ Ahaha
+❁´◡` ฅ >> http://www.devbearbot.xyz/resume/ <br/>
 ( 'u' ฅ >> https://pf.kakao.com/_JBgJxj <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true)
