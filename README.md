@@ -19,9 +19,9 @@ _"누구 때문이야?"_ 가 아닌 _"어떤 문제 때문이야?"_ 를 함께 �
 <div>
  
 ### ☘️ Education
-- **Design and technology** (Bachelor of Design) pusan national university 2013-2019 <br/>
-- **Aerospace Engineering** (Bachelor of Science) pusan national university 2013-2019 <br/>
-- **Data science and Artificial intelligence** ( - , Master's degree student ) sogang university 2024- <br/>
+- **Design and technology** (Bachelor of Design) 2013-2019 <br/>
+- **Aerospace Engineering** (Bachelor of Science) 2013-2019 <br/>
+- **Data science and Artificial intelligence** ( - , Master's degree student ) 2024- <br/>
 
 ### ☘️ Experience
 **KyoboDTS SW Engineer** 2021.12- <br/>
