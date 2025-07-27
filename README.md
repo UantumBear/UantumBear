@@ -34,9 +34,10 @@ _"누구 때문이야?"_ 가 아닌 _"어떤 문제 때문이야?"_ 를 함께 �
 ###  ☘️ Ahaha
 ❁´◡` ฅ >> http://www.devbearbot.xyz/resume/ <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=13&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=20&count_private=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUantumBear&count_bg=%23928ED7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUantumBear&count_bg=%23928ED7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 
 
