@@ -1,43 +1,47 @@
-### 개발곰의 깃허브 프로필
 
 <div align=center>
-
----
  
-안녕하세요. SW엔지니어로 일하고 있습니다. <br/>
+---
 
-개발 중 부딪힌 문제를 해결하고 알게 된 지식을 공유하며 함께 성장하는 것을 중요하게 생각합니다. <br/> <br/>
-처음 해보는 일들과 기술을 두려워하지 않고 과제를 완수하고 책임지며 <br/> <br/>
-_"누구 때문이야?"_ 가 아닌 _"어떤 문제 때문이야?"_ 를 함께 고민하는 좋은 동료 개발자가 되고 싶습니다. <br/> <br/>
-
-감사합니다 :D  <br/> <br/>
-
+Who is UantumBear?
 
 ---
 
 </div>
 <div>
  
-### ☘️ Education
-- **Design and technology** (Bachelor of Design) 2013-2019 <br/>
-- **Aerospace Engineering** (Bachelor of Science) 2013-2019 <br/>
-- **Data science and Artificial intelligence** ( - , Master's degree student ) 2024- <br/>
+### 🏫 Education
+#### Pusan National University (2013.03 - 2019.02)
+- `Design and technology` (Bachelor of Design) <br/>
+- `Aerospace Engineering` (Bachelor of Science) <br/>
+#### Sogang University, Graduate School of AI·SW (2024.02 - present)
+- `Data science and Artificial intelligence` (Master's student) <br/>
 
-### ☘️ Experience
-**KyoboDTS SW Engineer** 2021.12- <br/>
- - Kyobo Life Insurance MyData (Peach) 2022 <br/>
- - Kyobo Life Insurance Chatbot 2023- <br/>
 
+
+### 🏢 Experience
+#### KyoboDTS SW Engineer (2021.12 - present) <br/>
+- `Kyobo Life Insurance MyData Peach` `2022-2023` <br/>
+  : Developed service termination and withdrawal features in the common service layer <br/>
+- `Kyobo Life Insurance Chatbot` `2023-2024` <br/>
+  : Fine-tuned koBERT model and conducted utterance analysis as part of an internal project <br/>
+- `Kyobo Life Insurance GPT` `2024-present` <br/>
+  : Leading development of GPT admin web for internal enterprise GPT service management <br/>
 </div>
 
 
 ###  ☘️ Ahaha
 ❁´◡` ฅ >> http://www.devbearbot.xyz/resume/ <br/>
 
+### 
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=light&layout=compact&langs_count=20&count_private=true)
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUantumBear&count_bg=%23928ED7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
 
 
 
