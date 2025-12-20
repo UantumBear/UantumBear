@@ -6,7 +6,7 @@
   </p>
   
   <a href="mailto:litl@kakao.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/UantumBear"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  
 </div>
 
 <br/>
@@ -121,14 +121,40 @@ http://www.devbearbot.xyz/resume/
 
 
 
-<br/>
+---
+<br>
+<p align="center">
+  <a href="https://github.com/UantumBear">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+<br><br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UantumBear&theme=github" width="480"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=UantumBear&theme=react-dark" width="480"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UantumBear&theme=minimal&layout=compact&langs_count=6&count_private=true" />
-</div>
+
+
+
+
+
+<!--
+![Lang Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UantumBear)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UantumBear&show_icons=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UantumBear)
+-->
+
 
 
 ### 
+
 
 
 
