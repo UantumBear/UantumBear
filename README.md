@@ -1,7 +1,7 @@
 <div align="center">
   <h1>UantumBear</h1>
   <p>
-    <b>SW Engineer | Studying AI</b><br>
+    <b>SW Engineer | Studying AI</b><br><br>
     <i>'u'ฅ </i>
   </p>
   
@@ -154,6 +154,7 @@ http://www.devbearbot.xyz/resume/
 
 
 ### 
+
 
 
 
