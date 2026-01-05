@@ -70,7 +70,7 @@ http://www.devbearbot.xyz/resume/
 **ProcessingDev** : 프로세싱 과제 / 졸업 작품 / 교내 공모전   
 **ArduinoDev** : 졸업 작품 
 
-<kbd>Pythonshop</kbd> <kbd>Motion5</kbd> <kbd>SAI&nbsp;Tool</kbd> / <kbd>Processing</kbd> <kbd>kinect</kbd> / <kbd>Arduino</kbd> 
+<kbd>Photoshop</kbd> <kbd>Motion5</kbd> <kbd>SAI&nbsp;Tool</kbd> / <kbd>Processing</kbd> <kbd>kinect</kbd> / <kbd>Arduino</kbd> 
 
 &nbsp;<br/>
 ---  
@@ -155,6 +155,7 @@ http://www.devbearbot.xyz/resume/
 
 
 ### 
+
 
 
 
