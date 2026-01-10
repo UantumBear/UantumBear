@@ -28,6 +28,20 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 
 <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Vite</kbd> / <kbd>Azure OpenAI</kbd> <kbd>Blob Storage</kbd> <kbd>PostgreSQL (pgvector)</kbd> / <kbd>GitHub Actions</kbd> <kbd>Azure</kbd>  
 
+<div style="align:'center'; display:flex; flex-direction:row; gap:20px">
+  <img src="assets/imgs/docuat_main.png" width="200">
+  <img src="assets/imgs/자녀학자금질문_1.png" width="200">
+  <img src="assets/imgs/자녀학자금질문_2.png" width="200">
+</div>
+<br>
+<div style="align:'center'; display:flex; flex-direction:row; gap:20px">
+  <img src="assets/imgs/기타질문_1.png" width="200">
+  <img src="assets/imgs/기타질문_2.png" width="200">
+  <img src="assets/imgs/기타질문_3.png" width="200">
+</div>
+
+<br>
+
 
 **Safe-RAG-RL** : 언어적 피드백 기반 강화학습 실험 및 학습용 프로젝트  
 <sub>※ 현재 Docuat 서버 미적용.</sub>
