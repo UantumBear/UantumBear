@@ -29,15 +29,15 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Vite</kbd> / <kbd>Azure OpenAI</kbd> <kbd>Blob Storage</kbd> <kbd>PostgreSQL (pgvector)</kbd> / <kbd>GitHub Actions</kbd> <kbd>Azure</kbd>  
 
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/docuat_main.png" width="200">
-  <img src="assets/imgs/자녀학자금질문_1.png" width="200">
-  <img src="assets/imgs/자녀학자금질문_2.png" width="200">
+  <img src="assets/imgs/docuat_main.png" width="200" height="260">
+  <img src="assets/imgs/자녀학자금질문_1.png" width="200" height="260">
+  <img src="assets/imgs/자녀학자금질문_2.png" width="200" height="260">
 </div>
 <br>
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/기타질문_1.png" width="200">
-  <img src="assets/imgs/기타질문_2.png" width="200">
-  <img src="assets/imgs/기타질문_3.png" width="200">
+  <img src="assets/imgs/기타질문_1.png" width="200" height="260">
+  <img src="assets/imgs/기타질문_2.png" width="200" height="260">
+  <img src="assets/imgs/기타질문_3.png" width="200" height="260">
 </div>
 
 <br>
