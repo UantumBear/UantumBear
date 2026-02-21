@@ -57,7 +57,7 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 **Reinfoce** : https://github.com/UantumBear/Reinforce  
 ver 1. 강화학습의 action, state, reward 를 모티브로 언어적 피드백을 부여하여 프롬프트를 최적화하는 컨셉  
 ... 프롬프트 자동 최적화 프레임워크를 활용하여 디벨롭 중 ...  
-<kbd>Python</kbd> <kbd>Google&nbsp;Generative&nbsp;AI</kbd> <kbd>Azure&nbsp;OpenAI</kbd> <kbd>Huggingface</kbd>  <kbd>DSPy</kbd>
+<kbd>Python</kbd> <kbd>Google&nbsp;Generative&nbsp;AI</kbd> <kbd>Azure&nbsp;OpenAI</kbd> <kbd>Huggingface</kbd> <kbd>DSPy</kbd> <kbd>TEXTGRAD</kbd>
 
 &nbsp;<br/>
 ---  
@@ -169,6 +169,7 @@ http://www.devbearbot.xyz/resume/
 
 
 ### 
+
 
 
 
