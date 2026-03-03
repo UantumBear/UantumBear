@@ -29,15 +29,15 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Vite</kbd> / <kbd>Azure OpenAI</kbd> <kbd>Blob Storage</kbd> <kbd>PostgreSQL (pgvector)</kbd> / <kbd>GitHub Actions</kbd> <kbd>Azure</kbd>  
 
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/docuat_main.png" width="200" height="260">
-  <img src="assets/imgs/자녀학자금질문_1.png" width="200" height="260">
-  <img src="assets/imgs/자녀학자금질문_2.png" width="200" height="260">
+  <img src="assets/imgs/docuat_main.png" width="240" height="312">
+  <img src="assets/imgs/자녀학자금질문_1.png" width="240" height="312">
+  <img src="assets/imgs/자녀학자금질문_2.png" width="240" height="312">
 </div>
 <br>
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/기타질문_1.png" width="200" height="260">
-  <img src="assets/imgs/기타질문_2.png" width="200" height="260">
-  <img src="assets/imgs/기타질문_3.png" width="200" height="260">
+  <img src="assets/imgs/기타질문_1.png" width="240" height="312">
+  <img src="assets/imgs/기타질문_2.png" width="240" height="312">
+  <img src="assets/imgs/기타질문_3.png" width="240" height="312">
 </div>
 
 <br>
@@ -55,9 +55,9 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 
 ### 2. 강화학습 기말 프로젝트 (Verbal RL 기반 RAG 시스템 프롬프트 자동 최적화)
 **Reinfoce** : https://github.com/UantumBear/Reinforce  
-강화학습의 action, state, reward 를 모티브로 언어적 피드백을 부여하여 프롬프트를 최적화하는 컨셉
-
-<kbd>Python</kbd> <kbd>Google&nbsp;Generative&nbsp;AI</kbd> <kbd>Azure&nbsp;OpenAI</kbd> <kbd>Huggingface</kbd>  
+ver 1. 강화학습의 action, state, reward 를 모티브로 언어적 피드백을 부여하여 프롬프트를 최적화하는 컨셉  
+... 프롬프트 자동 최적화 프레임워크를 활용하여 디벨롭 중 ...  
+<kbd>Python</kbd> <kbd>Google&nbsp;Generative&nbsp;AI</kbd> <kbd>Azure&nbsp;OpenAI</kbd> <kbd>Huggingface</kbd> <kbd>DSPy</kbd> <kbd>TEXTGRAD</kbd>
 
 &nbsp;<br/>
 ---  
@@ -169,6 +169,11 @@ http://www.devbearbot.xyz/resume/
 
 
 ### 
+
+
+
+
+
 
 
 
