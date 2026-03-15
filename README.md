@@ -74,6 +74,11 @@ http://www.devbearbot.xyz/resume/
 
 <kbd>Python</kbd> <kbd>Flask</kbd> <kbd>FastAPI</kbd> <kbd>koBERT&nbsp;Fine-tuning</kbd> 
 
+
+<div style="align:'center'; display:flex; flex-direction:row; gap:20px">
+  <img src="assets/imgs/devbear/main_md.png" width="730" height="624">
+</div>
+
 &nbsp;<br>
 ---
 
