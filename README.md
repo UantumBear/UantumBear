@@ -1,7 +1,7 @@
 <div align="center">
   <h1>UantumBear</h1>
   <p>
-    <b>SW Engineer | Studying AI</b><br><br>
+    <b>SW Engineer</b><br><br>
     <i>'u'ฅ </i>
   </p>
   
@@ -29,27 +29,24 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Vite</kbd> / <kbd>Azure OpenAI</kbd> <kbd>Blob Storage</kbd> <kbd>PostgreSQL (pgvector)</kbd> / <kbd>GitHub Actions</kbd> <kbd>Azure</kbd>  
 
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/docuat_main.png" width="240" height="312">
-  <img src="assets/imgs/자녀학자금질문_1.png" width="240" height="312">
-  <img src="assets/imgs/자녀학자금질문_2.png" width="240" height="312">
+  <img src="assets/imgs/docuat_main.png" width="245" height="315">
+  <img src="assets/imgs/자녀학자금질문_1.png" width="245" height="315">
+  <img src="assets/imgs/자녀학자금질문_2.png" width="245" height="315">
 </div>
 <br>
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/기타질문_1.png" width="240" height="312">
-  <img src="assets/imgs/기타질문_2.png" width="240" height="312">
-  <img src="assets/imgs/기타질문_3.png" width="240" height="312">
+  <img src="assets/imgs/기타질문_1.png" width="245" height="315">
+  <img src="assets/imgs/기타질문_2.png" width="245" height="315">
+  <img src="assets/imgs/기타질문_3.png" width="245" height="315">
 </div>
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/시간외근로질문_4.png" width="730" height="624">
+  <img src="assets/imgs/시간외근로질문_4.png" width="746" height="627">
 </div>
 
 <br>
 
 
-**Safe-RAG-RL** : 언어적 피드백 기반 강화학습 실험 및 학습용 프로젝트  
-<sub>※ 현재 Docuat 서버 미적용.</sub>
 
-<kbd>Python</kbd> <kbd>Huggingface</kbd> <kbd>Verbal RL</kbd>
 
 &nbsp;<br/>
 ---  
@@ -58,9 +55,13 @@ https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/login
 
 ### 2. 강화학습 기말 프로젝트 (Verbal RL 기반 RAG 시스템 프롬프트 자동 최적화)
 **Reinfoce** : https://github.com/UantumBear/Reinforce  
-ver 1. 강화학습의 action, state, reward 를 모티브로 언어적 피드백을 부여하여 프롬프트를 최적화하는 컨셉  
-... 프롬프트 자동 최적화 프레임워크를 활용하여 디벨롭 중 ...  
-<kbd>Python</kbd> <kbd>Google&nbsp;Generative&nbsp;AI</kbd> <kbd>Azure&nbsp;OpenAI</kbd> <kbd>Huggingface</kbd> <kbd>DSPy</kbd> <kbd>TEXTGRAD</kbd>
+https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/reinforce/rl001  
+
+ver 1. 강화학습의 action, state, reward 를 모티브로 언어적 피드백을 부여하여 프롬프트를 최적화하는 컨셉.  
+ver 2. TextGrad 프레임워크를 기반으로 논문을 재현하고, 언어적 피드백을 통한 프롬프트를 최적화하는 실험.
+
+<code>Backend :</code> <kbd>Python</kbd> <kbd>Google&nbsp;Generative&nbsp;AI</kbd> <kbd>Azure&nbsp;OpenAI</kbd> <kbd>Huggingface</kbd> <kbd>DSPy</kbd> <kbd>TEXTGRAD</kbd>  
+<code>Frontend:</code> <kbd>React</kbd> <kbd>Copilot</kbd>  
 
 &nbsp;<br/>
 ---  
@@ -76,7 +77,7 @@ http://www.devbearbot.xyz/resume/
 
 
 <div style="align:'center'; display:flex; flex-direction:row; gap:20px">
-  <img src="assets/imgs/devbear/main_md.png" width="730" height="624">
+  <img src="assets/imgs/devbear/main_md.png" width="746" height="627">
 </div>
 
 &nbsp;<br>
