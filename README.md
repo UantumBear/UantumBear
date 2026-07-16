@@ -23,8 +23,8 @@
 ### 1.RAG 기반 챗봇 프로젝트
 **Docuat** : 테스트 웹 서비스 / 사내 AI Agent 개발 경진대회 참가용 (사내 문서 기반 RAG 챗봇)
 
-https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/docuat/login
-<sub>※ 첫 로딩 시 서버 웜업으로 약간의 대기 시간이 있을 수 있습니다.</sub>
+
+<sub>※ 사내 AI 경진대회 종료 및 퇴사로 인한 서비스 종료 </sub>
 
 <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>Vite</kbd> / <kbd>Azure OpenAI</kbd> <kbd>Blob Storage</kbd> <kbd>PostgreSQL (pgvector)</kbd> / <kbd>GitHub Actions</kbd> <kbd>Azure</kbd>  
 
