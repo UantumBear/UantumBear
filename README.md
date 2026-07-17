@@ -104,9 +104,9 @@ http://www.devbearbot.xyz/resume/
 
 # 🏢 Work Experience
 
-#### Kyobo DTS (2021.12 - Present)
+#### Kyobo DTS (2021.12 - 2026.07)
 **SW Engineer | AI & Service Development Team**
-- **Enterprise GPT Admin Web (2024 - present):**
+- **Enterprise GPT Admin Web (2024.01 - 2026.07):**
   - Leading the full-stack development of the internal GPT management platform
   - Built JIRA-approval–based prompt governance and RAG data management features  
  <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>Azure</kbd> <kbd>Elasticsearch</kbd> <kbd>Postgres</kbd> <kbd>Git</kbd> <kbd>Jira</kbd> <kbd>Bitbucket</kbd> <kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd> 
