@@ -104,21 +104,23 @@ http://www.devbearbot.xyz/resume/
 
 # 🏢 Work Experience
 
-#### Kyobo DTS (2021.12 - 2026.07)
-**SW Engineer | AI Service Development Team**
-- **Enterprise GPT Admin Web (2024.01 - 2026.07):**
-  - Leading the full-stack development of the internal GPT management platform
-  - Built JIRA-approval–based prompt governance and RAG data management features  
- <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>Azure</kbd> <kbd>Elasticsearch</kbd> <kbd>Postgres</kbd> <kbd>Git</kbd> <kbd>Jira</kbd> <kbd>Bitbucket</kbd> <kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd> 
+### Kyobo DTS: SW Engineer (2021.12 - 2026.07)
+#### Kyobo Life Insurance | AI Service Development Team
+##### **(3) Enterprise GPT Project (2024.01 - 2026.07):**
+  - GPT 관리자 웹 구축/개발  
+  - JIRA 연동 RAG 파이프라인 구축
    
-- **Chatbot System (2023 - 2024):**
-  - Conducted an internal AI research project: Fine-tuned KoBERT for intent classification
-  - Responsible for operation & maintenance (SM) of the Kakao chatbot service  
+ <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>Azure</kbd> <kbd>Elasticsearch</kbd> <kbd>Postgres</kbd> <kbd>Git</kbd> <kbd>Docker</kbd> <kbd>Jira</kbd> <kbd>Bitbucket</kbd> <kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd> 
+   
+##### **(2) Chatbot System (2023 - 2024):**
+  - AI발화분석모델 PoC: Fine-tuned KoBERT for intent classification
+  - Kakao chatbot service 유지운영
+    
  <kbd>Python</kbd> <kbd>Pytorch</kbd> <kbd>HuggingFace</kbd> <kbd>KoBERT Fine-tuning</kbd> <kbd>Linux</kbd> / <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>Oracle</kbd> 
     
-- **MyData Platform (2022 - 2023):**
-  - Developed interfaces for service termination and user withdrawal (MCI)
-  - Implemented common UI menu components  
+##### **(1) MyData Platform (2022 - 2023):**
+  - phase 2: 서비스해지, 탈퇴 개발 (MCI)
+      
 <kbd>Java</kbd> <kbd>Spring</kbd> <kbd>Oracle</kbd> 
 
 &nbsp;<br/>
