@@ -70,8 +70,8 @@ ver 2. TextGrad 프레임워크를 기반으로 논문을 재현하고, 언어�
 
 ### 3. 개발 연습
 **DevBear** : 의도 분류 챗봇 / 웹 개발  
-http://www.devbearbot.xyz/chat2  
-http://www.devbearbot.xyz/resume/  
+http://www.devbearbot.xyz/chat2 (임시중단)  
+[http://www.devbearbot.xyz/resume/ ](https://uantumbear-a0czd9btgdgkhre9.koreacentral-01.azurewebsites.net/resume/)
 
 <kbd>Python</kbd> <kbd>Flask</kbd> <kbd>FastAPI</kbd> <kbd>koBERT&nbsp;Fine-tuning</kbd> 
 
